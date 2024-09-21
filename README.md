@@ -6,3 +6,8 @@ Whether you’re planning a trip, managing international transactions, or just c
 The app fetches real-time exchange rates from a reliable API, ensuring accurate conversions.
 
 ![image](https://github.com/binny3213/Currency_Converter/assets/90454079/aeb6076c-1191-4fc0-b51e-5f48a571aae3)
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+</div>
